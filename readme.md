@@ -1,6 +1,6 @@
 Hola Git
 
-**Espero aprener en el curso:**
-- Aprender Git
-- Aprender HTML
-- Aprender CSS
+**Espero aprender en el curso:**
+- Git
+- HTML
+- CSS
